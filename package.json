@@ -1,0 +1,19 @@
+{
+  "name": "bookacab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aqsa Qazi (GD-aish0o)",
+  "license": "ISC",
+  "description": "Practice example of booking a cab using promises and setTimeouts in functions",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
